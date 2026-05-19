@@ -1,6 +1,5 @@
-##################################################
-                 phone scripting
-##################################################
+# phone scripting
+---
 
 Let me be clear, there will bw typos, this was 
 written on a phone (pixel 9 pro) in the terminal
