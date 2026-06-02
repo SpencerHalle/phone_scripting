@@ -17,7 +17,9 @@ do
 	elif [[ "$DIRECTION"=="R" ]]; then
 		CURRENT=$((CURRENT+NUM))
 	fi
-	echo "Your total delta is $CURRENT"
+	if [[ $CURRENT>=100]]
+	fi
+	echo "Your current position is is $CURRENT"
 done
 
 
